@@ -36,8 +36,6 @@ router.post('/complete', async (req, res) => {
   res.redirect('/')
 })
 
-router.delete("/complete", async (req, res) => {
 
-})
 
 module.exports = router
